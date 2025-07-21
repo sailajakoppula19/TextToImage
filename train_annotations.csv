@@ -1,0 +1,7 @@
+split,filename,label
+train,normal_train_0.jpeg,normal
+train,normal_train_1.jpeg,normal
+train,normal_train_2.jpeg,normal
+train,pneumonia_train_0.jpeg,pneumonia
+train,pneumonia_train_1.jpeg,pneumonia
+train,pneumonia_train_2.jpeg,pneumonia

@@ -1,0 +1,7 @@
+split,filename,label
+test,normal_test_0.jpeg,normal
+test,normal_test_1.jpeg,normal
+test,normal_test_2.jpeg,normal
+test,pneumonia_test_0.jpeg,pneumonia
+test,pneumonia_test_1.jpeg,pneumonia
+test,pneumonia_test_2.jpeg,pneumonia
